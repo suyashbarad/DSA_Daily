@@ -48,7 +48,7 @@ int main(){
         palindromeString(str);
     }
     else{
-        printf("Invalid input! ");
+        printf("Invalid input number! ");
     }
      
     return 0;
