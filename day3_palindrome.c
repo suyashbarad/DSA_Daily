@@ -8,15 +8,20 @@ void palindrome(int n, int arr[n]){
             break;
         }
     }
-    if(flag) printf("Palindrome");
-    else printf("Not palindrome");
+    if(flag) printf("Palindrome\n");
+    else printf("Not palindrome\n");
 }
 int main(){
-    int n = 3;
-    int arr1[3] = {1, 2, 3};
-    int arr2[3] = {1, 2, 1};
+    int n;
+    printf("Enter no. of elements: ");
+    scanf("%d", &n);
+    int arr[n];
+    for(int i = 0; i < n; i++){
+        printf("Enter element %d: ", i+1);
+        scanf("%d", &arr[i]);
+    }
+    printf("\n");
 
-    palindrome(n, arr1);
-    palindrome(n, arr2);    
+    palindrome(n, arr);  
     return 0;
 }
