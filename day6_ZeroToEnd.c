@@ -1,10 +1,18 @@
 #include<stdio.h>
 //wrong
 int main(){
-    int arr[] = {1, 0, 2, 0, 0, 3};
-    int n = sizeof(arr) / sizeof(arr[0]);
+    // int arr[] = {1, 0, 2, 0, 0, 3};
+    // int n = sizeof(arr) / sizeof(arr[0]);
     int j = 0;
-
+    int n;
+    printf("Enter no. of elements: ");
+    scanf("%d", &n);
+    int arr[n];
+    for(int i = 0; i < n; i++){
+        printf("Enter element %d: ", i+1);
+        scanf("%d", &arr[i]);
+    }
+    printf("\n");
     for(int i = 0; i < n; i++){
         if(arr[i] != 0){
             arr[j] = arr[i];
