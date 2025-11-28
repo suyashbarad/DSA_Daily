@@ -50,7 +50,6 @@ int main(){
     else{
         printf("Invalid input number! ");
 
-        printf("Invalid input! ");
     }
      
     return 0;
