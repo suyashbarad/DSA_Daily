@@ -11,7 +11,9 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 4** | `day4_Reverse.c`  | Reverse String        | Strings          | ✅ Completed    |
 | **Day 5** | `day5_elemFreq.c`       | Frequency of Elements | Arrays / Hashing | ✅ Completed    |
 | **Day 6** | `day6_ZeroToEnd.c`      | Move Zeroes to End    | Two Pointers     | ✅ Completed    |
-| **Day 7** | —                       | —                     | —                |  Coming Soon |
+| **Day 7** | `day7_secondLargest.c`      | Finding the second largest (Longer)    | Arrays   | ✅ Completed    |
+| **Day 8** | —                       | —                     | —                |  Coming Soon |
+
 
 **• Folder Structure**
 DSA_daily/<br>
@@ -21,6 +23,7 @@ DSA_daily/<br>
       `├── day4_ReverseString.c`<br>
       `├── day5_elemFreq.c`<br>
       `├── day6_ZeroToEnd.c`<br>
+      `├── day7_secondLargest.c`<br>
       `└── README.md`<br>
 
 
