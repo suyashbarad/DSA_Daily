@@ -28,8 +28,12 @@ int main(){
         }
     }
 
-    for(int i = 0; i < n; i++){
-        printf("%d ", arr[i]);
-    }
+    // printf("Sorted array: ");    //first sorting the array
+    // for(int i = 0; i < n; i++){
+    //     printf("%d ", arr[i]);
+    // }
+
+    printf("Second largest element: %d", arr[n-2]);
+
     return 0;
 }
