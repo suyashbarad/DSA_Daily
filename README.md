@@ -1,4 +1,4 @@
-****• DSA Daily — My Daily Coding Practice****
+******• DSA Daily — My Daily Coding Practice******
 
 Welcome to my DSA Daily Repository, where I solve one DSA problem every day using C language.
 This repo helps me build strong logic, consistency, and a solid foundation for Data Structures & Algorithms.
@@ -12,8 +12,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 5** | `day5_elemFreq.c`       | Frequency of Elements | Arrays / Hashing | ✅ Completed    |
 | **Day 6** | `day6_ZeroToEnd.c`      | Move Zeroes to End    | Two Pointers     | ✅ Completed    |
 | **Day 7** | `day7_secondLargest.c`      | Finding the second largest (Longer)    | Arrays   | ✅ Completed    |
-| **Day 8** | —                       | —                     | —                |  Coming Soon |
-
+| **Day 8** | `day8_bubbleSorting.c`      | Sorting array using bubble sort    | Arrays/Sorting   | ✅ Completed    |
+| **Day 9** | —                       | —                     | —                |  Coming Soon |
 
 **• Folder Structure**
 DSA_daily/<br>
@@ -24,6 +24,7 @@ DSA_daily/<br>
       `├── day5_elemFreq.c`<br>
       `├── day6_ZeroToEnd.c`<br>
       `├── day7_secondLargest.c`<br>
+      `├── day8_bubbleSorting.c`<br>
       `└── README.md`<br>
 
 
