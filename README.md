@@ -57,6 +57,6 @@ DSA_daily/<br>
 ##  #Author
 **Suyash Sachin Barad**  
 📍 Pune, Maharashtra, India  
-🔗 [GitHub](https://github.com/suyashbarad) | [LinkedIn](https://www.linkedin.com/in/suyash-sachin-barad-796b6534b)
+🔗 [GitHub](https://github.com/suyashbarad) | [LinkedIn](https://www.linkedin.com/in/suyash-sachin-barad-796b6534b) | [HackerRank](https://www.hackerrank.com/profile/baradsuyash4)
 
 ---
