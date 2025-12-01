@@ -13,8 +13,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 6** | `day6_ZeroToEnd.c`      | Move Zeroes to End    | Two Pointers     | ✅ Completed    |
 | **Day 7** | `day7_secondLargest.c`      | Finding the second largest (Longer)    | Arrays   | ✅ Completed    |
 | **Day 8** | `day8_bubbleSorting.c`      | Sorting array using bubble sort    | Arrays/Sorting   | ✅ Completed    |
-| **Day 8** | `day9_SelectionSorting.c`      | Sorting array using Selection sort    | Arrays/Sorting   | ✅ Completed    |
-| **Day 9** | —                       | —                     | —                |  Coming Soon |
+| **Day 9** | `day9_SelectionSorting.c`      | Sorting array using Selection sort    | Arrays/Sorting   | ✅ Completed    |
+| **Day 10** | —                       | —                     | —                |  Coming Soon |
 
 **• Folder Structure**
 DSA_daily/<br>
