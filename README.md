@@ -1,4 +1,4 @@
-******• DSA Daily — My Daily Coding Practice******
+## ******• DSA Daily — My Daily Coding Practice******
 
 Welcome to my DSA Daily Repository, where I solve one DSA problem every day using C language.
 This repo helps me build strong logic, consistency, and a solid foundation for Data Structures & Algorithms.
@@ -16,7 +16,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 9** | `day9_SelectionSorting.c`      | Sorting array using Selection sort    | Arrays/Sorting   | ✅ Completed    |
 | **Day 10** | —                       | —                     | —                |  Coming Soon |
 
-**• Folder Structure**
+## • Folder Structure
 DSA_daily/<br>
       `├── day1_two_sum_target.c`<br>
       `├── day2_largestNo.c`<br>
@@ -30,7 +30,7 @@ DSA_daily/<br>
       `└── README.md`<br>
 
 
-**• Goals of This Repository**
+## • Goals of This Repository
 
   `Build daily coding discipline`
   
@@ -42,7 +42,7 @@ DSA_daily/<br>
   
   `Prepare for placements & competitive programming`
 
-**• Learning Strategy**
+##  • Learning Strategy
 
 `✔ Solve one problem every day`
 
@@ -53,3 +53,10 @@ DSA_daily/<br>
 `✔ Track progress using tables`
 
 `✔ Learn DSA concepts with analogies & memory tricks`
+
+##  #Author
+**Suyash Sachin Barad**  
+📍 Pune, Maharashtra, India  
+🔗 [GitHub](https://github.com/suyashbarad) | [LinkedIn](https://www.linkedin.com/in/suyash-sachin-barad-796b6534b)
+
+---
