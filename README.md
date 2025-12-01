@@ -26,6 +26,7 @@ DSA_daily/<br>
       `├── day6_ZeroToEnd.c`<br>
       `├── day7_secondLargest.c`<br>
       `├── day8_bubbleSorting.c`<br>
+      `├── day9_SelectionSorting.c`<br>
       `└── README.md`<br>
 
 
@@ -33,7 +34,7 @@ DSA_daily/<br>
 
   `Build daily coding discipline`
   
-  `Strengthen fundamentals of C`
+  `Strengthen fundamentals of C and C++ (Afterwords)`
   
   `Understand DSA concepts with real-life analogies`
   
