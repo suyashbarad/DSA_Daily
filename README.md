@@ -14,7 +14,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 7** | `day7_secondLargest.c`      | Finding the second largest (Longer)    | Arrays   | ✅ Completed    |
 | **Day 8** | `day8_bubbleSorting.c`      | Sorting array using bubble sort    | Arrays/Sorting   | ✅ Completed    |
 | **Day 9** | `day9_SelectionSorting.c`      | Sorting array using Selection sort    | Arrays/Sorting   | ✅ Completed    |
-| **Day 10** | —                       | —                     | —                |  Coming Soon |
+| **Day 10** | `day10_InsertionSorting.c`      | Sorting array using Insertion sort    | Arrays/Sorting   | ✅ Completed    |
+| **Day 11** | —                       | —                     | —                |  Coming Soon |
 
 ## • Folder Structure
 DSA_daily/<br>
@@ -27,6 +28,7 @@ DSA_daily/<br>
       `├── day7_secondLargest.c`<br>
       `├── day8_bubbleSorting.c`<br>
       `├── day9_SelectionSorting.c`<br>
+      `├── day10_InsertionSorting.c`<br>
       `└── README.md`<br>
 
 
