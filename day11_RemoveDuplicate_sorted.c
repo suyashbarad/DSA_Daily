@@ -2,9 +2,17 @@
 
 int main(){
     
-    int n = 9;
-    int arr[9] = {1, 1, 2, 3, 3, 4, 5, 5, 6};
+    // int arr[] = {1, 2, 1, 1, 2};              //if done in manual way
+    // int n = sizeof(arr) / sizeof(arr[0]);
+    int n;
+    printf("Enter no. of elements: ");
+    scanf("%d", &n);
+    int arr[n];
     int temp[9];
+    for(int i = 0; i < n; i++){
+        printf("Enter element %d: ", i+1);
+        scanf("%d", &arr[i]);
+    }
     int j = 0;
 
     for(int i = 0; i < n; i++){
