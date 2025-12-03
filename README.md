@@ -15,7 +15,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 8** | `day08_bubbleSorting.c`      | Sorting array using bubble sort    | Arrays/Sorting   | ✅ Completed    |
 | **Day 9** | `day09_SelectionSorting.c`      | Sorting array using Selection sort    | Arrays/Sorting   | ✅ Completed    |
 | **Day 10** | `day10_InsertionSorting.c`      | Sorting array using Insertion sort    | Arrays/Sorting   | ✅ Completed    |
-| **Day 11** | —                       | —                     | —                |  Coming Soon |
+| **Day 11** | `day11_RemoveDuplicate_sorted.c`      | Remove Sorted Duplicates    | Arrays  | ✅ Completed    |
+| **Day 12** | —                       | —                     | —                |  Coming Soon |
 
 ## • Folder Structure
 DSA_daily/<br>
@@ -29,6 +30,7 @@ DSA_daily/<br>
       `├── day08_bubbleSorting.c`<br>
       `├── day09_SelectionSorting.c`<br>
       `├── day10_InsertionSorting.c`<br>
+      `├── day11_RemoveDuplicate_sorted.c`<br>
       `└── README.md`<br>
 
 
