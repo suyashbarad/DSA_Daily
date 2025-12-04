@@ -28,7 +28,18 @@ int main(){
         printf("%d ", arr[i]);
     }
     printf("\n");
-    
+    int j = 0;
+
+    for(int i = 0; i < n; i++){
+        if(i == 0 || arr[i] != arr[i-1]){
+            temp[j] = arr[i];
+            j++;
+        }
+    }
+    printf("Array after removing duplicates: ");
+    for(int i = 0; i < j; i++){
+        printf("%d ", temp[i]);
+    }
     
     return 0;
 }
