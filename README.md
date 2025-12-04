@@ -32,6 +32,7 @@ DSA_daily/<br>
       `├── day09_SelectionSorting.c`<br>
       `├── day10_InsertionSorting.c`<br>
       `├── day11_RemoveDuplicate_sorted.c`<br>
+      `├── day12_RemoveDuplicate_Unsorted.c`<br>
       `└── README.md`<br>
 
 
