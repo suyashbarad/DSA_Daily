@@ -18,8 +18,12 @@ int main(){
     scanf("%d", &target);
     for(int i = 0; i <= n; i++){
         for(int j = 0; j <= n; j++){
-            if(i+j == target){
-                printf("[%d, %d], ", i, j);
+            if(arr[i]+arr[j] == target){
+                // printf("Indexes: ");
+                printf("index[%d, %d] = ", i, j);
+                // printf("Numbers: ");
+                printf("%d + %d = %d\n", arr[i], arr[j], target);
+                
             }
         }
     }
