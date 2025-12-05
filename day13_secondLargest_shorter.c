@@ -13,5 +13,12 @@ int main(){
         scanf("%d", &arr[i]);
     }
     printf("\n");
+    int largest;
+    for(int i = 1; i < n; i++){
+        if(arr[i] > largest){
+            largest = arr[i];
+            printf("Largest location: arr[%d] = %d\n", i, arr[i]);
+        }
+    }
     return 0;
 }
