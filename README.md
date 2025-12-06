@@ -18,7 +18,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 11** | `day11_RemoveDuplicate_sorted.c`      | Remove Sorted Duplicates    | Arrays  | ✅ Completed    |
 | **Day 12** | `day12_RemoveDuplicate_Unsorted.c`      | Remove Unsorted Duplicates    | Arrays/Sorting  | ✅ Completed    |
 | **Day 13** | `day13_secondLargest_shorter.c` | Finding the second Largest (shorter) | Arrays |  ✅ Completed  |
-| **Day 14** | `day14_LongestCommon_Prefix` | —                     | —                |  Coming Soon |
+| **Day 14** | `day14_LongestCommon_Prefix` | Finding the Longest common prefix | Strings | ✅ Completed |
 | **Day 15** | `day15_Missing_integer.c` | —                     | —                |  Coming Soon |
 
 ## • Folder Structure
