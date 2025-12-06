@@ -21,7 +21,7 @@ int main(){
             largest_index = i;
         }
     }
-    // printf("Largest location: arr[%d] = %d\n", i, arr[i]);
+    // printf("Largest location: arr[%d] = %d\n", i, arr[i]);   //<---largest number
     int second_largest = -100000;
     for(int i = 0; i < n; i++){
         if(i == largest_index) continue;
