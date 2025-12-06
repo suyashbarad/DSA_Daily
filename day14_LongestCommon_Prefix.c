@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-//Longest common PREFIX(only from start..pre)
+//Longest common PREFIX(only from start..PRE)
 int main(){
     int n;
     printf("Enter number of strings: ");
