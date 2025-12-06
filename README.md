@@ -22,7 +22,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 15** | `day15_Missing_integer.c` | —                     | —                |  Coming Soon |
 
 ## • Folder Structure
-DSA_daily/<br>
+**DSA_daily**/<br>
       `├── day01_two_sum_target.c`<br>
       `├── day02_largestNo.c`<br>
       `├── day03_palindrome.c`<br>
