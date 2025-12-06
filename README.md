@@ -18,7 +18,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 11** | `day11_RemoveDuplicate_sorted.c`      | Remove Sorted Duplicates    | Arrays  | ✅ Completed    |
 | **Day 12** | `day12_RemoveDuplicate_Unsorted.c`      | Remove Unsorted Duplicates    | Arrays/Sorting  | ✅ Completed    |
 | **Day 13** | `day13_secondLargest_shorter.c` | Finding the second Largest (shorter) | Arrays |  ✅ Completed  |
-| **Day 14** | `day14_LongestCommon_Prefix` | Finding the Longest common prefix | Strings | ✅ Completed |
+| **Day 14** | `day14_LongestCommon_Prefix.c` | Finding the Longest common prefix | Strings | ✅ Completed |
 | **Day 15** | `day15_Missing_integer.c` | Finding Missing Number between 1 to N | Arrays/Math | ✅ Completed |
 | **Day 16** | -                       | —                     | —                |  Coming Soon |
 
@@ -37,7 +37,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day11_RemoveDuplicate_sorted.c`<br>
       `├── day12_RemoveDuplicate_Unsorted.c`<br>
       `├── day13_secondLargest_shorter.c`<br>
-      `├── day14_LongestCommon_Prefix`<br>
+      `├── day14_LongestCommon_Prefix.c`<br>
+      `├── day15_Missing_integer.c`<br>
       `└── README.md`<br>
 
 
