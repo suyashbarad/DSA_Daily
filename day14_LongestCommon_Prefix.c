@@ -29,3 +29,5 @@ int main(){
     }
     return 0;
 }
+//Working: if we inpot 3 string: "apple", "apply", "apricot"
+//then the Longest common prefix is: "ap" 
