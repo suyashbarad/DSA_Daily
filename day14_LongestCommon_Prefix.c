@@ -11,5 +11,21 @@ int main(){
         printf("Enter string %d: ", i+1);
         scanf("%s", strs[i]);
     }
+    char prefix[100];
+    strcpy(prefix, strs[0]);
+
+    for(int i = 1; i < n; i++){
+        int j = 0;
+        while(prefix[j] && strs[i][j] && prefix[j] == strs[i][j]){
+            j++;
+        }
+        prefix[j] = '\0';
+    }
+    if(strlen(prefix) == 0){
+        printf("No common prefix! ");
+    }
+    else{
+        printf("Longest common prefix: %s", prefix);
+    }
     return 0;
 }
