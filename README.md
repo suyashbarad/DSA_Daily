@@ -36,6 +36,7 @@ DSA_daily/<br>
       `├── day11_RemoveDuplicate_sorted.c`<br>
       `├── day12_RemoveDuplicate_Unsorted.c`<br>
       `├── day13_secondLargest_shorter.c`<br>
+      `├── day14_LongestCommon_Prefix`<br>
       `└── README.md`<br>
 
 
