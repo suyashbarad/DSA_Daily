@@ -40,6 +40,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day13_secondLargest_shorter.c`<br>
       `├── day14_LongestCommon_Prefix.c`<br>
       `├── day15_Missing_integer.c`<br>
+      `├── day16_Binary_Search_Tree.c`<br>
       `└── README.md`<br>
 
 
