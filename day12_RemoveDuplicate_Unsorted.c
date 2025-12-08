@@ -2,7 +2,7 @@
 
 int main(){
     
-    // int arr[] = {1, 2, 1, 1, 2};              //if done in manually
+    // int arr[] = {1, 2, 1, 1, 2};              //if done in manual way
     // int n = sizeof(arr) / sizeof(arr[0]);
     int n;
     printf("Enter no. of elements: ");
