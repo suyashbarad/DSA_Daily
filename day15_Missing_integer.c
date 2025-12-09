@@ -9,11 +9,20 @@ int main(){
     int total = (n*(n+1))/2;
     int sum = 0;
     for(int i = 0; i < n-1; i++){
+    int arr[n-1];
+    int total = (n*(n+1))/2;
+    int sum = 0;
+    for(int i = 0; i < n-1; i++){
         //note: Enter elements between 1 to N
         printf("Enter element %d: ", i+1);
         scanf("%d", &arr[i]);
         sum += arr[i];
+        sum += arr[i];
     }
+    int missing = total-sum;
+    printf("Missing Integer: %d", missing);
+
+    return 0;
     int missing = total-sum;
     printf("Missing Integer: %d", missing);
 
