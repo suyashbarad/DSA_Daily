@@ -58,3 +58,20 @@ void inorder_Nonrec(struct node* root){
         current = current->right;
     }
 }
+int main(){
+    struct node* root = NULL;
+    int n, value;
+
+    printf("Enter no. of elements: ");
+    scanf("%d", &n);
+    for(int i = 0; i < n; i++){
+        printf("Enter element %d: ", i+1);
+        scanf("%d", &value);
+        root = insert(root, value);
+    }
+    printf("Recursive inorder Traversal: ");
+    inorder_rec(root);
+    printf("\n");
+    printf("Nonrecursive inorder Traversal: ");
+    inorder_Nonrec(root);
+}
