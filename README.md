@@ -21,7 +21,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 14** | `day14_LongestCommon_Prefix.c` | Finding the Longest common prefix | Strings | ✅ Completed |
 | **Day 15** | `day15_Missing_integer.c` | Finding Missing Number between 1 to N | Arrays/Math | ✅ Completed |
 | **Day 16** | `day16_Binary_Search_Tree.c` | Performing BST Operations | Trees/Structs | ✅ Completed |
-| **Day 17** | `day17_inorder.c` | -                       | -               |  Coming Soon |
+| **Day 17** | `day17_inorder.c` | Inorder Traversal (Recursive and NonRecursive) | Trees/Structs | ✅ Completed |
 | **Day 18** | -                       | —                     | —                |  Coming Soon |
 
 ## • Folder Structure
