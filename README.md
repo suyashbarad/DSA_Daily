@@ -23,7 +23,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 16** | `day16_Binary_Search_Tree.c` | Performing BST Operations | Trees/Structs | ✅ Completed |
 | **Day 17** | `day17_inorder.c` | Inorder Traversal (Recursive and NonRecursive) | Trees/Structs | ✅ Completed |
 | **Day 18** | `day18_preorder.c` | Preorder Traversal (Recursive and NonRecursive) | Trees/Structs | ✅ Completed |
-| **Day 19** | -                       | —                     | —                |  Coming Soon |
+| **Day 19** | `day19_postorder.c` | —                     | —                |  Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
