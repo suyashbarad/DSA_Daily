@@ -25,7 +25,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 18** | `day18_preorder.c` | Preorder Traversal (Recursive and NonRecursive) | Trees/Structs | ✅ Completed |
 | **Day 19** | `day19_postorder.c` | Postorder Traversal (Recursive) | Trees/Structs | ✅ Completed |
 | **Day 20** | `day20_intersection.c` | Intersection of two arrays | Arrays/Sorting | ✅ Completed |
-| **Day 21** |  --                | —                     | —                |  Coming Soon |
+| **Day 21** | `day21_patterns.c` | Makes four * paters | Loops | ✅ Completed |
+| **Day 22** |  --                | —                     | —                |  Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
