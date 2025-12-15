@@ -50,6 +50,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day18_preorder.c`<br>
       `├── day19_postorder.c`<br>
       `├── day20_intersection.c`<br>
+      `├── day21_patterns.c`<br>
       `└── README.md`<br>
 
 
