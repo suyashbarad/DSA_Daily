@@ -52,6 +52,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day19_postorder.c`<br>
       `├── day20_intersection.c`<br>
       `├── day21_patterns.c`<br>
+      `├── day22_NumberPatterns.c`<br>
       `└── README.md`<br>
 
 
