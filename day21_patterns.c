@@ -6,7 +6,7 @@ int main(){
     int n = 5;
     int choice;
     while(1){
-        printf("1. Triangle\n2.InvertedTriangle\n3.Pyramid\n4.InvertedPyramid\n5.END\nEnter choice: ");
+        printf("1. Triangle\n2.InvertedTriangle\n3.Pyramid\n4.InvertedPyramid\n5.END!\nEnter choice: ");
         scanf("%d", &choice);
         switch(choice){
             case 1:
