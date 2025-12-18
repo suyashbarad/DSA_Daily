@@ -28,7 +28,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 21** | `day21_patterns.c` | Makes four * paters | Loops | ✅ Completed |
 | **Day 22** | `day22_NumberPatterns.c` | Makes Number patterns paters | Loops | ✅ Completed |
 | **Day 23** | `day23_majority_mooresAlgo.c` | Counts the most occured element | Loops/DS | ✅ Completed |
-| **Day 24** |  --                | —                     | —                |  Coming Soon |
+| **Day 24** | `day24_Missing_XOR.c` | Finding Missing Number with XOR | Math/Loops | ✅ Completed |
+| **Day 25** |  --                | —                     | —                |  Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
