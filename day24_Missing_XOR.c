@@ -1,8 +1,15 @@
 #include <stdio.h>
 
 int main(){
-    int n = 8;
-    int arr[] = {3, 1, 5, 4, 2, 6, 8};
+    int n;
+    printf("Enter Number of elements: ");
+    scanf("%d", &n);
+    int arr[n-1];
+    for(int i = 0; i < n-1; i++){
+        printf("Enter element %d: ", i+1);
+        scanf("%d", &arr[i]);
+    }
+
     int xor_all = 0;
     int xor_arr = 0;
 
