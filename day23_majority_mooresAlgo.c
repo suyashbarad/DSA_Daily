@@ -2,8 +2,14 @@
 
 int main(){
     int count = 0, poss = 0;
-    int n = 5;
-    int arr[] = {2, 4, 6, 3, 2, 4, 2, 2, 3, 1};
+    int n;
+    printf("Enter number of elements: ");
+    scanf("%d", &n);
+    int arr[n];
+    for(int i = 0; i < n; i++){
+        printf("Enter element %d: ", i+1);
+        scanf("%d", &arr[i]);
+    }
     for(int i = 0; i < n; i++){
         if(count == 0){
             poss = arr[i];
