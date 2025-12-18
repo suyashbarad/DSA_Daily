@@ -5,7 +5,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 
 | **Day**   | **File Name**           | **Problem**           | **Topic**        | **Status**     |
 | --------- | ----------------------- | --------------------- | ---------------- | -------------- |
-| **Day 1** | `day01_two_sum_target.c` | Two Sum               | Arrays / Hashing | ✅ Completed    |
+| **Day 1** | `day01_two_sum_target.c` | Gives two sum indices of target | Arrays / Hashing | ✅ Completed    |
 | **Day 2** | `day02_largestNo.c`      | Largest Number        | Arrays           | ✅ Completed    |
 | **Day 3** | `day03_palindrome.c`     | Palindrome Check      | Strings          | ✅ Completed    |
 | **Day 4** | `day04_Reverse.c`  | Reverse String        | Strings          | ✅ Completed    |
@@ -54,6 +54,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day20_intersection.c`<br>
       `├── day21_patterns.c`<br>
       `├── day22_NumberPatterns.c`<br>
+      `├── day23_majority_mooresAlgo.c`<br>
       `└── README.md`<br>
 
 
