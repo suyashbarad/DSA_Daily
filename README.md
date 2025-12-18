@@ -56,6 +56,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day21_patterns.c`<br>
       `├── day22_NumberPatterns.c`<br>
       `├── day23_majority_mooresAlgo.c`<br>
+      `├── day24_Missing_XOR.c`<br>
       `└── README.md`<br>
 
 
