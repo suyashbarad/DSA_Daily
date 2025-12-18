@@ -27,7 +27,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 20** | `day20_intersection.c` | Intersection of two arrays | Arrays/Sorting | ✅ Completed |
 | **Day 21** | `day21_patterns.c` | Makes four * paters | Loops | ✅ Completed |
 | **Day 22** | `day22_NumberPatterns.c` | Makes Number patterns paters | Loops | ✅ Completed |
-| **Day 23** |  --                | —                     | —                |  Coming Soon |
+| **Day 23** | `day23_majority_mooresAlgo.c` | Counts the most occured element | Loops/DS | ✅ Completed |
+| **Day 24** |  --                | —                     | —                |  Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
