@@ -58,6 +58,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day22_NumberPatterns.c`<br>
       `├── day23_majority_mooresAlgo.c`<br>
       `├── day24_Missing_XOR.c`<br>
+      `├── day25_longest_subarrayPrefix.c`<br>
       `└── README.md`<br>
 
 
