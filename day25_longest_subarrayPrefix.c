@@ -1,8 +1,14 @@
 #include<stdio.h>
 
 int main(){
-    int n = 7;
-    int arr[] = {0, 1, 1, 1, 0, 1, 0};
+    int n;
+    printf("Enter Number of elements: ");
+    scanf("%d", &n);
+    int arr[n];
+    for(int i = 0; i < n; i++){
+        printf("Enter element %d: ", i+1);
+        scanf("%d", &arr[i]);
+    }
     int sum = 0;
     int count = 0;
     for(int i = 0; i < n; i++){
