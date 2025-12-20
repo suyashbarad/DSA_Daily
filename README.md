@@ -31,7 +31,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 24** | `day24_Missing_XOR.c` | Finding Missing Number with XOR | Math/Loops | ✅ Completed |
 | **Day 25** | `day25_longest_subarrayPrefix.c` | Finds longest subarray prefix | Loops | ✅ Completed |
 | **Day 26** | `day26_infix_postfix.c` | Conversion Infix to Postfix | Functions/DS | ✅ Completed |
-| **Day 27** |  --                | —                     | —                |  Coming Soon |
+| **Day 27** | `day26_infix_prefix.c` | Conversion Infix to Prefix | Functions/DS | ✅ Completed |
+| **Day 28** |  --                | —                     | —                |  Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
