@@ -37,3 +37,36 @@ int precedence(char x){
     if(x == '*' || x == '/' || x == '%') return 2;
     return 0;
 }
+
+int main(){
+    char exp[MAX], *e, x;
+    printf("Enter Infix expression: ");
+    scanf("%s", exp);
+
+    e = exp;
+    while(*e != '\0'){
+        if(isOperand(*e)){
+            printf("%c", *e);
+        }
+        else if(*e == '('){
+            push(*e);
+        }
+        else if(*e == ')'){
+            while((x = pop()) != '('){
+                printf("%c", x);
+            }
+        }
+        else {
+            while(!isEmpty() && precedence(stack[top]) >= precedence(*e)){
+                printf("%c", pop());
+            }
+            push(*e);
+        }
+        e++;
+    }
+    while(!isEmpty()){
+        printf("%c", pop());
+    }
+    printf("\n");
+    return 0;
+}
