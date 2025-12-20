@@ -48,3 +48,50 @@ void reverse(char exp[]){
         n--;
     }
 }
+int main(){
+    char exp[MAX], ans[MAX], *e, x;
+    int k = 0;
+
+    printf("Enter Infix expression: ");
+    scanf("%s", exp);
+
+    reverse(exp);
+
+    for(int i = 0; exp[i] != '\0'; i++){
+        if(exp[i] == '(') exp[i] = ')';
+        else if(exp[i] == ')') exp[i] = '(';
+    }
+
+    e = exp;
+
+    while(*e != '\0'){
+        if(isOperand(*e)){
+            ans[k++] = *e;
+        }
+        else if(*e == '('){
+            push(*e);
+        }
+        else if(*e == ')'){
+            while((x = pop()) != '('){
+                ans[k++] = x;
+            }
+        }
+        else{
+            while(!isEmpty() && precedence(stack[top]) >= precedence(*e)){
+                ans[k++] = pop();
+            }
+            push(*e);
+        }
+        e++;
+    }
+
+    while(!isEmpty()){
+        ans[k++] = pop();
+    }
+
+    ans[k] = '\0';
+    reverse(ans);
+
+    printf("Prefix Expression: %s\n", ans);
+    return 0;
+}
