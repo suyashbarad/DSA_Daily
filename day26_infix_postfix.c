@@ -44,6 +44,7 @@ int main(){
     scanf("%s", exp);
 
     e = exp;
+    printf("Postfix Expression: ");
     while(*e != '\0'){
         if(isOperand(*e)){
             printf("%c", *e);
