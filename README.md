@@ -60,6 +60,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day23_majority_mooresAlgo.c`<br>
       `├── day24_Missing_XOR.c`<br>
       `├── day25_longest_subarrayPrefix.c`<br>
+      `├── day26_infix_postfix.c`<br>
       `└── README.md`<br>
 
 
