@@ -32,7 +32,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 25** | `day25_longest_subarrayPrefix.c` | Finds longest subarray prefix | Loops | ✅ Completed |
 | **Day 26** | `day26_infix_postfix.c` | Conversion Infix to Postfix | Functions/DS | ✅ Completed |
 | **Day 27** | `day27_infix_prefix.c` | Conversion Infix to Prefix | Functions/DS | ✅ Completed |
-| **Day 28** |  --                | —                     | —                |  Coming Soon |
+| **Day 28** | `day28_anagram.c ` | Checks two strings are ANAGRAM or not | String/Loops | ✅ Completed |
+| **Day 29** |  --                | —                     | —                |  Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
