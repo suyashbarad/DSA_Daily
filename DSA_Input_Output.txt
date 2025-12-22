@@ -1,0 +1,294 @@
+==============================
+DSA DAILY PRACTICE – INPUT / OUTPUT
+==============================
+
+Day 1 – Two Sum Target
+Input Example:
+Array: 2 7 11 15
+Target: 9
+
+Output:
+index[1, 2] = 2 + 7 = 9
+
+
+------------------------------
+
+Day 2 – Largest Number in Array
+Input Example:
+Array: 3 9 2 5 6
+
+Output:
+Largest: 9
+
+
+------------------------------
+
+Day 3 – Palindrome Check
+Input Example:
+String: level
+
+Output:
+Palindrome
+
+
+------------------------------
+
+Day 4 – Reverse array
+Input Example:
+String: 12345
+
+Output: 54321
+
+
+------------------------------
+
+Day 5 – Frequency of Elements
+Input Example:
+Array: 1 2 2 3 3 3
+
+Output:
+1 -> 1
+2 -> 2
+3 -> 3
+
+
+------------------------------
+
+Day 6 – Move Zeroes to End
+Input Example:
+Array: 0 1 0 3 12
+
+Output:
+1 3 12 0 0
+
+
+------------------------------
+
+Day 7 – Second Largest Number
+Input Example:
+Array: 10 5 20 8
+
+Output:
+Second Largest element: 10
+
+
+------------------------------
+
+Day 8 – Bubble Sort
+Input Example:
+Array: 5 1 4 2 8
+
+Output:
+Sorted array using Bubble sort: 1 2 4 5 8
+
+
+------------------------------
+
+Day 9 – Selection Sort
+Input Example:
+Array: 64 25 12 22 11
+
+Output:
+Sorted array using Selection sort: 11 12 22 25 64
+
+
+------------------------------
+
+Day 10 – Insertion Sort
+Input Example:
+Array: 12 11 13 5 6
+
+Output:
+Sorted array using Insertion sort: 5 6 11 12 13
+
+
+------------------------------
+
+Day 11 – Remove Duplicates (Sorted)
+Input Example:
+Array: 1 1 2 2 3 3
+
+Output:
+Array after removing duplicates: 1 2 3
+
+
+------------------------------
+
+Day 12 – Remove Duplicates (Unsorted)
+Input Example:
+Array: 1 2 1 3 2
+
+Output:
+Sorted array: 1 1 2 2 3
+Array after removing duplicates: 1 2 3
+
+
+------------------------------
+
+Day 13 – Second Largest (Optimized)
+Input Example:
+Array: 4 1 7 9 2
+
+Output:
+Second Largest: 7
+
+
+------------------------------
+
+Day 14 – Longest Common Prefix
+Input Example:
+Strings: flower flow flight
+
+Output:
+Longest Common Prefix: fl
+
+
+------------------------------
+
+Day 15 – Missing Number (1 to N)
+Input Example:
+Array: 1 2 4 5
+N = 5
+
+Output:
+Missing Integer: 3
+
+
+------------------------------
+
+Day 16 – Binary Search Tree
+Input Example:
+Insert: 50 30 70 20 40 60 80
+
+Output:
+BST Created Successfully
+
+
+------------------------------
+
+Day 17 – Inorder Traversal
+Input Example:
+BST Nodes: 50 30 70 20 40
+
+Output:
+Recursive inorder Traversal: 20 30 40 50 70
+NonRecursive inorder Traversal: 20 30 40 50 70
+
+------------------------------
+
+Day 18 – Preorder Traversal
+Input Example:
+BST Nodes: 50 30 70
+
+Output:
+Recursive preorder Traversal: 50 30 70
+NonRecursive preorder Traversal: 50 30 70
+
+------------------------------
+
+Day 19 – Postorder Traversal
+Input Example:
+BST Nodes: 50 30 70
+
+Output:
+Recursive postorder Traversal: 30 70 50
+
+------------------------------
+
+Day 20 – Intersection of Two Arrays
+Input Example:
+Array1: 1 2 2 3
+Array2: 2 2
+
+Output:
+Intersection: 2
+
+
+------------------------------
+
+Day 21 – Star Patterns
+Input Example:
+Rows: 3
+
+Output:
+*
+**
+***
+
+
+------------------------------
+
+Day 22 – Number Patterns
+Input Example:
+Rows: 3
+
+Output:
+1
+12
+123
+
+
+------------------------------
+
+Day 23 – Majority Element (Moore’s Algorithm)
+Input Example:
+Array: 2 2 1 2 3 2 2
+
+Output:
+Majority Element: 2
+
+
+------------------------------
+
+Day 24 – Missing Number using XOR
+Input Example:
+Array: 1 2 3 5
+
+Output:
+Missing Number: 4
+
+
+------------------------------
+???wrong!!
+Day 25 – Longest Subarray Prefix
+Input Example:
+Array: 1 2 3 4 5
+
+Output:
+Longest Prefix Length: 5
+
+
+------------------------------
+
+Day 26 – Infix to Postfix
+Input Example:
+Expression: A+B*C
+
+Output:
+Postfix expression: ABC*+
+
+
+------------------------------
+
+Day 27 – Infix to Prefix
+Input Example:
+Expression: A+B*C
+
+Output:
+Prefix expression: +A*BC
+
+
+------------------------------
+
+Day 28 – Anagram Check
+Input Example:
+String1: listen
+String2: silent
+
+Output:
+Anagram
+
+
+------------------------------
+
+Day 29 – Coming Soon 🚀
