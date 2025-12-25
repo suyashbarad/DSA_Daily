@@ -249,13 +249,13 @@ Missing Number: 4
 
 
 ------------------------------
-???wrong!!
+
 Day 25 – Longest Subarray Prefix
 Input Example:
-Array: 1 2 3 4 5
+Array: 0 1 1 0 0 1 0
 
 Output:
-Longest Prefix Length: 5
+Longest Prefix Length: 3
 
 
 ------------------------------
