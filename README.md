@@ -66,6 +66,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day26_infix_postfix.c`<br>
       `├── day27_infix_prefix.c`<br>
       `├── day28_anagram.c`<br>
+      `├── day29_valid_paranthesis.c`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
