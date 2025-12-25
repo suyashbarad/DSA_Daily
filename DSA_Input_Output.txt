@@ -17,7 +17,7 @@ Day 2 – Largest Number in Array
 Input Example:
 Array: 3 9 2 5 6
 
-Output:
+Output: 
 Largest: 9
 
 
