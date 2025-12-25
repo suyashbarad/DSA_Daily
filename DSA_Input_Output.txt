@@ -301,4 +301,15 @@ Valid parathesis
 
 ------------------------------
 
-Day 30 – Coming Soon 🚀
+Day 30 – Longest unique substring
+Input Example:
+abcdabcaa
+
+Output:
+abcd
+4
+
+------------------------------
+
+Day 31 – Coming Soon 🚀
+
