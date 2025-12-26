@@ -35,7 +35,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 28** | `day28_anagram.c` | Checks two strings are ANAGRAM or not | String/Loops | ✅ Completed |
 | **Day 29** | `day29_valid_paranthesis.c` | Checks if brackets are balanced | Functions/Loops | ✅ Completed |
 | **Day 30** | `day30_longest_Substring.c` | Finds the longest continuous substring | Strings/Loops | ✅ Completed |
-| **Day 31** |  --                | —                    | —                |  Coming Soon |
+| **Day 31** | `day31_nonRepeating_char.c  ` | Finds the first nonrepeating character | Strings/Loops | ✅ Completed |
+| **Day 32** |  --                | —                    | —                |  Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
