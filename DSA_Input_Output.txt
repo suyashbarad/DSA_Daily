@@ -311,5 +311,14 @@ abcd
 
 ------------------------------
 
+Day 31 – First NonRepeating character
+Input Example:
+"aaabbccdeee"
+
+Output:
+ans: d
+
+------------------------------
+
 Day 31 – Coming Soon 🚀
 
