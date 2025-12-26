@@ -108,7 +108,7 @@ Day 11 – Remove Duplicates (Sorted)
 Input Example:
 Array: 1 1 2 2 3 3
 
-Output:
+Output: 
 Array after removing duplicates: 1 2 3
 
 
