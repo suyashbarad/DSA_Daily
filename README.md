@@ -34,7 +34,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 27** | `day27_infix_prefix.c` | Conversion Infix to Prefix | Functions/DS | ✅ Completed |
 | **Day 28** | `day28_anagram.c` | Checks two strings are ANAGRAM or not | String/Loops | ✅ Completed |
 | **Day 29** | `day29_valid_paranthesis.c` | Checks if brackets are balanced | Functions/Loops | ✅ Completed |
-| **Day 30** | `day230_longest_Substring.c` | Finds the longest continuous substring | Strings/Loops | ✅ Completed |
+| **Day 30** | `day30_longest_Substring.c` | Finds the longest continuous substring | Strings/Loops | ✅ Completed |
 | **Day 31** |  --                | —                    | —                |  Coming Soon |
 
 ## • Folder Structure
@@ -68,6 +68,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day27_infix_prefix.c`<br>
       `├── day28_anagram.c`<br>
       `├── day29_valid_paranthesis.c`<br>
+      `├── day30_longest_Substring.c`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
