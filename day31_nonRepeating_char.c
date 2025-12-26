@@ -20,7 +20,10 @@ int main(){
         }
     }
     if(ans != '\0'){
-        printf("Ans: %c\n", ans);
+        printf("First NonRepeating character: %c\n", ans);
+    }
+    else{
+        printf("First NonRepeating character: -1");
     }
     return 0;
 }
