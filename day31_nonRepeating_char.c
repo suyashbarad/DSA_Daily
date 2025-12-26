@@ -3,7 +3,9 @@
 
 int main(){
 
-    char str[] = "abccdd";
+    char str[100];
+    printf("Enter String: ");
+    scanf("%s", str);
     int n = strlen(str);
     int count[256] = {0};
     char ans = '\0';
