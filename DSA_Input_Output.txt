@@ -320,5 +320,14 @@ ans: d
 
 ------------------------------
 
-Day 31 – Coming Soon 🚀
+Day 32 – Finds next greater
+Input Example:
+[4, 5, 2, 25]
+
+Output:
+and: [5, 25, 25, -1]
+
+------------------------------
+
+Day 33 – Coming Soon 🚀
 
