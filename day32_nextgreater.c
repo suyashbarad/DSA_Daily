@@ -4,6 +4,13 @@ int main(){
 
     int arr[] = {4, 5, 2, 25};
     int n = sizeof(arr)/sizeof(arr[0]);
+    printf("Enter no. of array: ");
+    scanf("%d", &n);
+    for(int i = 0; i < n; i++){
+        printf("Enter elements no. %d: ", i+1);
+        scanf("%d", &arr[i]);
+    }
+    
     // printf("%d", n);
     for(int i = 0; i < n; i++){
         int next = -1;
