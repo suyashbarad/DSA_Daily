@@ -72,6 +72,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day29_valid_paranthesis.c`<br>
       `├── day30_longest_Substring.c`<br>
       `├── day31_nonRepeating_char.c`<br>
+      `├── day32_nextgreater.c`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
