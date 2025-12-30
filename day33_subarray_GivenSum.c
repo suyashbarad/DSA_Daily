@@ -11,14 +11,14 @@ int main(){
         for(int j = i; j < n; j++){
             sum += arr[j];
             if(sum == S){
-                printf("Index: %d %d",i, j);
+                printf("Found at Index: [%d, %d]",i, j);
                 flag = 1;
             }
         }
         if(flag) break;
     }
     if(!flag){
-        printf("not found");
+        printf("not found at any index");
     }
     return 0;
 }
