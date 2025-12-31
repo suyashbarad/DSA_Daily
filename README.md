@@ -37,8 +37,9 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 30** | `day30_longest_Substring.c` | Finds the longest continuous substring | Strings/Loops | ✅ Completed |
 | **Day 31** | `day31_nonRepeating_char.c` | Finds the first nonrepeating character | Strings/Loops | ✅ Completed |
 | **Day 32** | `day32_nextgreater.c` | Finds the next greater element in array | array/Loops | ✅ Completed |
-| **Day 32** | `day33_subarray_GivenSum.c` | Finds the continuous Subarray with given Sum | array/Loops | ✅ Completed |
-| **Day 33** |  --                | —                    | —                |  Coming Soon |
+| **Day 33** | `day33_subarray_GivenSum.c` | Finds the continuous Subarray with given Sum | array/Loops | ✅ Completed |
+| **Day 34** | `day34_CountSubarray_GivenSum.c` | Counts the total subarrays with given sum | array/Loops | ✅ Completed |
+| **Day 35** |  --                | —                    | —                |  Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
