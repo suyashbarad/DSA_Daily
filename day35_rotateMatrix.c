@@ -33,3 +33,28 @@ void reverseRows(int rows, int cols, int mat[rows][cols]){
         }
     }
 }
+
+int main(){
+    int rows, cols;
+    printf("Enter Number of rows, columns: ");
+    scanf("%d %d", &rows, &cols);
+
+    int mat[rows][cols];
+    int AnsMat[cols][rows];
+
+    inputMatrix(rows, cols, mat);
+
+    printf("Matrix: \n");
+    printMatrix(rows, cols, mat);
+
+    transpose(rows, cols, mat, AnsMat);
+
+    printf("Transpose: \n");
+    printMatrix(cols, rows, AnsMat);
+
+    reverseRows(rows, cols, AnsMat);
+
+    printf("Reversed Transpose: \n");
+    printMatrix(cols, rows, AnsMat);
+    return 0;
+}
