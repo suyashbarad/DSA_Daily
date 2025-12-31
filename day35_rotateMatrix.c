@@ -17,3 +17,10 @@ void printMatrix(int rows, int cols, int mat[rows][cols]){
         printf("\n");
     }
 }
+void transpose(int rows, int cols, int mat[rows][cols], int ansMat[cols][rows]){
+    for(int i = 0; i < rows; i++){
+        for(int j = 0; j < cols; j++){
+            ansMat[j][i] = mat[i][j];
+        }
+    }
+}
