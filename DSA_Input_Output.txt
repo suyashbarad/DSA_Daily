@@ -325,8 +325,18 @@ Input Example:
 [4, 5, 2, 25]
 
 Output:
-and: [5, 25, 25, -1]
+ans: [5, 25, 25, -1]
 
 ------------------------------
 
-Day 33 – Coming Soon 🚀
+Day 33 – Continuous subarray with given sum
+Input Example:
+[1, 4, 20, 3, 10, 5]
+
+Output:
+Index: 2 4
+Reasoning: 20+3+10
+
+------------------------------
+
+Day 34 – Coming Soon 🚀
