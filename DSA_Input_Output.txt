@@ -331,7 +331,8 @@ ans: [5, 25, 25, -1]
 
 Day 33 – Continuous subarray with given sum
 Input Example:
-[1, 4, 20, 3, 10, 5]
+Array: [1, 4, 20, 3, 10, 5]
+Sum = 33
 
 Output:
 Index: 2 4
