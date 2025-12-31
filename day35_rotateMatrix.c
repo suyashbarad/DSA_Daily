@@ -24,3 +24,12 @@ void transpose(int rows, int cols, int mat[rows][cols], int ansMat[cols][rows]){
         }
     }
 }
+void reverseRows(int rows, int cols, int mat[rows][cols]){
+    for(int i = 0; i < rows; i++){
+        for(int j = 0; j < cols/2; j++){
+            int temp = mat[i][j];
+            mat[i][j] = mat[i][cols-j-1];
+            mat[i][cols-j-1] = temp;
+        }
+    }
+}
