@@ -340,4 +340,16 @@ Reasoning: 20+3+10
 
 ------------------------------
 
+Day 34 – Counting Subarrays with given sum
+Input Example:
+Array: [1, 1, 1]
+Sum = 2
+
+Output:
+Subarrays = 2
+Reasoning: 1+1 = 2 & 1+1 = 2
+
+------------------------------
+
 Day 34 – Coming Soon 🚀
+
