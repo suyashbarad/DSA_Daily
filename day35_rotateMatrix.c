@@ -8,3 +8,12 @@ void inputMatrix(int rows, int cols, int mat[rows][cols]){
         }
     }
 }
+void printMatrix(int rows, int cols, int mat[rows][cols]){
+
+    for(int i = 0; i < rows; i++){ 
+        for(int j = 0; j < cols; j++){
+            printf("%d ", mat[i][j]);
+        }
+        printf("\n");
+    }
+}
