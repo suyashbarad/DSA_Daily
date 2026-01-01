@@ -372,5 +372,16 @@ Reversed Transpose:
 
 ------------------------------
 
-Day 36 – Coming Soon 🚀
+Day 36 – Longest streak (Unsorted)
+Input Example:
+arr[] = [4, 2, 3, 5, 100, 101, 1]
+
+Output:
+Sorted array: 1 2 3 4 5 100 101
+
+Continuous streak: 1 2 3 4 5
+
+------------------------------
+
+Day 37 – Coming Soon 🚀
 
