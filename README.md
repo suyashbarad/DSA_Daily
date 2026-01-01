@@ -80,6 +80,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day33_subarray_GivenSum.c`<br>
       `├── day34_CountSubarray_GivenSum.c`<br>
       `├── day35_rotateMatrix.c`<br>
+      `├── day36_longestStreak.c`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
