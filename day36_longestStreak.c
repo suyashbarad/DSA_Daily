@@ -30,6 +30,7 @@ int main(){
         else{
             break;
         }
+        //logic trial
         // sum += arr[i];
         // total += (arr[i]*(arr[i]+1))/2;
         // if(total != sum){
