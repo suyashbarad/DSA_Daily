@@ -1,5 +1,5 @@
 ==============================
-DSA DAILY PRACTICE – INPUT / OUTPUT
+# DSA DAILY PRACTICE – INPUT / OUTPUT
 ==============================
 
 Day 1 – Two Sum Target
