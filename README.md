@@ -82,6 +82,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day34_CountSubarray_GivenSum.c`<br>
       `├── day35_rotateMatrix.c`<br>
       `├── day36_longestStreak.c`<br>
+      `├── day37_leadersArray.c`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
