@@ -383,5 +383,16 @@ Continuous streak: 1 2 3 4 5
 
 ------------------------------
 
-Day 37 – Coming Soon 🚀
+Day 37 – Leaders array
+A leader is an element in the array such that no element to its right is greater than it.
+
+Input Example:
+arr[] = [16, 17, 4, 3, 5, 2]
+
+Output:
+17 5 2
+
+------------------------------
+
+Day 38 – Coming Soon 🚀
 
