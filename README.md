@@ -42,7 +42,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 35** | `day35_rotateMatrix.c` | Rotates the matrix by 90degrees | Matrix/Functions | ✅ Completed |
 | **Day 36** | `day36_longestStreak.c` | Finds the longest streak of unsorted array from start | array/Loops | ✅ Completed |
 | **Day 37** | `day37_leadersArray.c` | Finds Elements greater than right | array/Loops | ✅ Completed |
-| **Day 38** |  --                | —                    | —                |  Coming Soon |
+| **Day 38** | `day38_spiralMatrix.c` | Prints given matrix in spiral order | Matrix/Functions | ✅ Completed |
+| **Day 39** |  --                | —                    | —                |  Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
