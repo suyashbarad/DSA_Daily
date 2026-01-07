@@ -3,8 +3,10 @@
 int main(){
     int a, b;
     int ans;
-    a = 12;
-    b = 18;
+    // a = 12;
+    // b = 18;
+    printf("Enter two numbers: ");
+    scanf("%d %d", &a, &b);
     int small;
     if(a < b) small = a;
     else small = b;
@@ -14,6 +16,6 @@ int main(){
             ans = i;
         }
     }
-    printf("%d", ans);
+    printf("GCD = %d", ans);
     
 }
