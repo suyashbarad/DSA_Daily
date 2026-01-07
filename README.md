@@ -44,7 +44,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 37** | `day37_leadersArray.c` | Finds Elements greater than right | array/Loops | ✅ Completed |
 | **Day 38** | `day38_spiralMatrix.c` | Prints given matrix in spiral order | Matrix/Functions | ✅ Completed |
 | **Day 39** | `day39_shortest_subarray.c` | Finds the shortest subarray with sum = k | Array/loops | ✅ Completed |
-| **Day 40** |  --                | —                    | —                |  Coming Soon |
+| **Day 40** | `day40_gcd.c` | Finds the GCD of two integers | Array/loops | ✅ Completed |
+| **Day 41** |  --                | —                    | —                |  Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
@@ -87,6 +88,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day37_leadersArray.c`<br>
       `├── day38_spiralMatrix.c`<br>
       `├── day39_shortest_subarray.c`<br>
+      `├── day40_gcd.c`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
