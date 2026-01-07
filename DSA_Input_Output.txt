@@ -421,5 +421,14 @@ Output:
 
 ------------------------------
 
-Day 40 – Coming Soon 🚀
+Day 40 – GCD of two integers
+Input Example:
+12, 18
+
+Output:
+GCD = 6
+
+------------------------------
+
+Day 41 – Coming Soon 🚀
 
