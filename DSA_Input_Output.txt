@@ -430,5 +430,15 @@ GCD = 6
 
 ------------------------------
 
+Day 41 – Two Sum Target -> C++
+Input Example:
+Array: 2 7 11 15
+Target: 9
+
+Output:
+index[1, 2] = 2 + 7 = 9 
+
+------------------------------
+
 Day 41 – Coming Soon 🚀
 
