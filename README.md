@@ -45,7 +45,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 38** | `day38_spiralMatrix.c` | Prints given matrix in spiral order | Matrix/Functions | ✅ Completed |
 | **Day 39** | `day39_shortest_subarray.c` | Finds the shortest subarray with sum = k | Array/loops | ✅ Completed |
 | **Day 40** | `day40_gcd.c` | Finds the GCD of two integers | Array/loops | ✅ Completed |
-| **Day 41** |  --                | —                    | —                |  Coming Soon |
+| **Day 41** | `day41_two_sum_target.cpp` | Return two numbers whose sum is target -> C++ | Array/loops | ✅ Completed |
+| **Day 42** |  --                | —                    | —                |  Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
@@ -89,6 +90,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day38_spiralMatrix.c`<br>
       `├── day39_shortest_subarray.c`<br>
       `├── day40_gcd.c`<br>
+      `├── day41_two_sum_target.cpp`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
