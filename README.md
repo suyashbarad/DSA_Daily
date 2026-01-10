@@ -3,50 +3,50 @@
 Welcome to my DSA Daily Repository, where I solve one DSA problem every day using C language.
 This repo helps me build strong logic, consistency, and a solid foundation for Data Structures & Algorithms.
 
-| **Day**   | **File Name**           | **Problem**           | **Topic**        | **Status**     |
-| --------- | ----------------------- | --------------------- | ---------------- | -------------- |
-| **Day 1** | `day01_two_sum_target.c` | Gives two sum indices of target | Arrays / Hashing | ✅ Completed    |
-| **Day 2** | `day02_largestNo.c`      | Largest Number        | Arrays           | ✅ Completed    |
-| **Day 3** | `day03_palindrome.c`     | Palindrome Check      | Strings          | ✅ Completed    |
-| **Day 4** | `day04_Reverse.c`  | Reverse String        | Strings          | ✅ Completed    |
-| **Day 5** | `day05_elemFreq.c`       | Frequency of Elements | Arrays / Hashing | ✅ Completed    |
-| **Day 6** | `day06_ZeroToEnd.c`      | Move Zeroes to End    | Two Pointers     | ✅ Completed    |
-| **Day 7** | `day07_secondLargest.c`      | Finding the second largest (Longer)    | Arrays   | ✅ Completed    |
-| **Day 8** | `day08_bubbleSorting.c`      | Sorting array using bubble sort    | Arrays/Sorting   | ✅ Completed    |
-| **Day 9** | `day09_SelectionSorting.c`      | Sorting array using Selection sort    | Arrays/Sorting   | ✅ Completed    |
-| **Day 10** | `day10_InsertionSorting.c`      | Sorting array using Insertion sort    | Arrays/Sorting   | ✅ Completed    |
-| **Day 11** | `day11_RemoveDuplicate_sorted.c`      | Remove Sorted Duplicates    | Arrays  | ✅ Completed    |
-| **Day 12** | `day12_RemoveDuplicate_Unsorted.c`      | Remove Unsorted Duplicates    | Arrays/Sorting  | ✅ Completed    |
-| **Day 13** | `day13_secondLargest_shorter.c` | Finding the second Largest (shorter) | Arrays |  ✅ Completed  |
-| **Day 14** | `day14_LongestCommon_Prefix.c` | Finding the Longest common prefix | Strings | ✅ Completed |
-| **Day 15** | `day15_Missing_integer.c` | Finding Missing Number between 1 to N | Arrays/Math | ✅ Completed |
-| **Day 16** | `day16_Binary_Search_Tree.c` | Performing BST Operations | Trees/Structs | ✅ Completed |
-| **Day 17** | `day17_inorder.c` | Inorder Traversal (Recursive and NonRecursive) | Trees/Structs | ✅ Completed |
-| **Day 18** | `day18_preorder.c` | Preorder Traversal (Recursive and NonRecursive) | Trees/Structs | ✅ Completed |
-| **Day 19** | `day19_postorder.c` | Postorder Traversal (Recursive) | Trees/Structs | ✅ Completed |
-| **Day 20** | `day20_intersection.c` | Intersection of two arrays | Arrays/Sorting | ✅ Completed |
-| **Day 21** | `day21_patterns.c` | Makes four * paters | Loops | ✅ Completed |
-| **Day 22** | `day22_NumberPatterns.c` | Makes Number patterns paters | Loops | ✅ Completed |
-| **Day 23** | `day23_majority_mooresAlgo.c` | Counts the most occured element | Loops/DS | ✅ Completed |
-| **Day 24** | `day24_Missing_XOR.c` | Finding Missing Number with XOR | Math/Loops | ✅ Completed |
-| **Day 25** | `day25_longest_subarrayPrefix.c` | Finds longest subarray prefix | Loops | ✅ Completed |
-| **Day 26** | `day26_infix_postfix.c` | Conversion Infix to Postfix | Functions/DS | ✅ Completed |
-| **Day 27** | `day27_infix_prefix.c` | Conversion Infix to Prefix | Functions/DS | ✅ Completed |
-| **Day 28** | `day28_anagram.c` | Checks two strings are ANAGRAM or not | String/Loops | ✅ Completed |
-| **Day 29** | `day29_valid_paranthesis.c` | Checks if brackets are balanced | Functions/Loops | ✅ Completed |
-| **Day 30** | `day30_longest_Substring.c` | Finds the longest continuous substring | Strings/Loops | ✅ Completed |
-| **Day 31** | `day31_nonRepeating_char.c` | Finds the first nonrepeating character | Strings/Loops | ✅ Completed |
-| **Day 32** | `day32_nextgreater.c` | Finds the next greater element in array | array/Loops | ✅ Completed |
-| **Day 33** | `day33_subarray_GivenSum.c` | Finds the continuous Subarray with given Sum | array/Loops | ✅ Completed |
-| **Day 34** | `day34_CountSubarray_GivenSum.c` | Counts the total subarrays with given sum | array/Loops | ✅ Completed |
-| **Day 35** | `day35_rotateMatrix.c` | Rotates the matrix by 90degrees | Matrix/Functions | ✅ Completed |
-| **Day 36** | `day36_longestStreak.c` | Finds the longest streak of unsorted array from start | array/Loops | ✅ Completed |
-| **Day 37** | `day37_leadersArray.c` | Finds Elements greater than right | array/Loops | ✅ Completed |
-| **Day 38** | `day38_spiralMatrix.c` | Prints given matrix in spiral order | Matrix/Functions | ✅ Completed |
-| **Day 39** | `day39_shortest_subarray.c` | Finds the shortest subarray with sum = k | Array/loops | ✅ Completed |
-| **Day 40** | `day40_gcd.c` | Finds the GCD of two integers | Array/loops | ✅ Completed |
-| **Day 41** | `day41_two_sum_target.cpp` | Return two numbers whose sum is target -> C++ | Array/loops | ✅ Completed |
-| **Day 42** |  --                | —                    | —                |  Coming Soon |
+| **Day** | **File Name** | **Problem** | **Topic** | **Language** | **Status** |
+|--------|---------------|-------------|-----------|-------------|-----------|
+| **Day 01** | `day01_two_sum_target.c` | Gives two sum indices of target | Arrays / Hashing | **C** | ✅ Completed |
+| **Day 02** | `day02_largestNo.c` | Largest Number | Arrays | **C**  | ✅ Completed |
+| **Day 03** | `day03_palindrome.c` | Palindrome Check | Strings | **C**  | ✅ Completed |
+| **Day 04** | `day04_Reverse.c` | Reverse String | Strings | **C**  | ✅ Completed |
+| **Day 05** | `day05_elemFreq.c` | Frequency of Elements | Arrays / Hashing | **C**  | ✅ Completed |
+| **Day 06** | `day06_ZeroToEnd.c` | Move Zeroes to End | Two Pointers | **C**  | ✅ Completed |
+| **Day 07** | `day07_secondLargest.c` | Finding the second largest (Longer) | Arrays | **C**  | ✅ Completed |
+| **Day 08** | `day08_bubbleSorting.c` | Sorting using Bubble Sort | Arrays / Sorting | **C**  | ✅ Completed |
+| **Day 09** | `day09_SelectionSorting.c` | Sorting using Selection Sort | Arrays / Sorting | **C**  | ✅ Completed |
+| **Day 10** | `day10_InsertionSorting.c` | Sorting using Insertion Sort | Arrays / Sorting | **C**  | ✅ Completed |
+| **Day 11** | `day11_RemoveDuplicate_sorted.c` | Remove Sorted Duplicates | Arrays | **C**  | ✅ Completed |
+| **Day 12** | `day12_RemoveDuplicate_Unsorted.c` | Remove Unsorted Duplicates | Arrays / Sorting | **C**  | ✅ Completed |
+| **Day 13** | `day13_secondLargest_shorter.c` | Finding the second largest (Shorter) | Arrays | **C**  | ✅ Completed |
+| **Day 14** | `day14_LongestCommon_Prefix.c` | Finding the Longest Common Prefix | Strings | **C**  | ✅ Completed |
+| **Day 15** | `day15_Missing_integer.c` | Finding Missing Number between 1 to N | Arrays / Math | **C**  | ✅ Completed |
+| **Day 16** | `day16_Binary_Search_Tree.c` | Performing BST Operations | Trees / Structs | **C**  | ✅ Completed |
+| **Day 17** | `day17_inorder.c` | Inorder Traversal (Recursive & Non-Recursive) | Trees / Structs | **C**  | ✅ Completed |
+| **Day 18** | `day18_preorder.c` | Preorder Traversal (Recursive & Non-Recursive) | Trees / Structs | **C**  | ✅ Completed |
+| **Day 19** | `day19_postorder.c` | Postorder Traversal (Recursive) | Trees / Structs | **C**  | ✅ Completed |
+| **Day 20** | `day20_intersection.c` | Intersection of Two Arrays | Arrays / Sorting | **C**  | ✅ Completed |
+| **Day 21** | `day21_patterns.c` | Star Patterns | Loops | **C**  | ✅ Completed |
+| **Day 22** | `day22_NumberPatterns.c` | Number Patterns | Loops | **C**  | ✅ Completed |
+| **Day 23** | `day23_majority_mooresAlgo.c` | Majority Element (Moore’s Algorithm) | DS / Loops | **C**  | ✅ Completed |
+| **Day 24** | `day24_Missing_XOR.c` | Finding Missing Number using XOR | Math / Loops | **C**  | ✅ Completed |
+| **Day 25** | `day25_longest_subarrayPrefix.c` | Finds Longest Subarray Prefix | Loops | **C**  | ✅ Completed |
+| **Day 26** | `day26_infix_postfix.c` | Infix to Postfix Conversion | Functions / DS | **C**  | ✅ Completed |
+| **Day 27** | `day27_infix_prefix.c` | Infix to Prefix Conversion | Functions / DS | **C**  | ✅ Completed |
+| **Day 28** | `day28_anagram.c` | Checks Two Strings are Anagram or Not | Strings / Loops | **C**  | ✅ Completed |
+| **Day 29** | `day29_valid_paranthesis.c` | Checks if Parenthesis are Balanced | Functions / Loops | **C**  | ✅ Completed |
+| **Day 30** | `day30_longest_Substring.c` | Finds Longest Continuous Substring | Strings / Loops | **C**  | ✅ Completed |
+| **Day 31** | `day31_nonRepeating_char.c` | Finds First Non-Repeating Character | Strings / Loops | **C**  | ✅ Completed |
+| **Day 32** | `day32_nextgreater.c` | Finds Next Greater Element | Arrays / Loops | **C**  | ✅ Completed |
+| **Day 33** | `day33_subarray_GivenSum.c` | Finds Subarray with Given Sum | Arrays / Loops | **C**  | ✅ Completed |
+| **Day 34** | `day34_CountSubarray_GivenSum.c` | Counts Subarrays with Given Sum | Arrays / Loops | **C**  | ✅ Completed |
+| **Day 35** | `day35_rotateMatrix.c` | Rotates Matrix by 90 Degrees | Matrix / Functions | **C**  | ✅ Completed |
+| **Day 36** | `day36_longestStreak.c` | Finds Longest Streak in Array | Arrays / Loops | **C**  | ✅ Completed |
+| **Day 37** | `day37_leadersArray.c` | Finds Leaders in Array | Arrays / Loops | **C** | ✅ Completed |
+| **Day 38** | `day38_spiralMatrix.c` | Prints Matrix in Spiral Order | Matrix / Functions | **C**  | ✅ Completed |
+| **Day 39** | `day39_shortest_subarray.c` | Finds Shortest Subarray with Sum = K | Arrays / Loops | **C**  | ✅ Completed |
+| **Day 40** | `day40_gcd.c` | Finds GCD of Two Integers | Math | **C**  | ✅ Completed |
+| **Day 41** | `day41_two_sum_target.cpp` | Return two numbers whose sum is target -> C++ | Array / Loops | **C++** | ✅ Completed |
+| **Day 42** | — | — | — | - | Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
