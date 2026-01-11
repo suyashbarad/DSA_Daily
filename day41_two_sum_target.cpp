@@ -6,17 +6,17 @@ int main(){
     // int arr[] = {2, 7, 11, 5, 4};
     // int n = sizeof(arr)/sizeof(arr[0]);
     int n;
-    printf("Enter no. of elements: ");
-    scanf("%d", &n);
+    cout << "Enter no. of elements: ";
+    cin >> n;
     int arr[n];
     for(int i = 0; i < n; i++){
-        printf("Enter element %d: ", i+1);
-        scanf("%d", &arr[i]);
+        cout << "Enter element : " <<  i+1;
+        cin >> arr[i];
     }
-    printf("\n");
+    cout << endl;
     int target;
-    printf("Enter target element: ");
-    scanf("%d", &target);
+    cout << "Enter target element: ";
+    cin >> target;
 
     for(int i = 0; i < n; i++){
         for(int j = i+1; j < n; j++){
