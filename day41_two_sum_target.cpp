@@ -14,7 +14,9 @@ int main(){
         scanf("%d", &arr[i]);
     }
     printf("\n");
-    int target = 9;
+    int target;
+    printf("Enter target element: ");
+    scanf("%d", &target);
 
     for(int i = 0; i < n; i++){
         for(int j = i+1; j < n; j++){
