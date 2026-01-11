@@ -440,5 +440,23 @@ index[1, 2] = 2 + 7 = 9
 
 ------------------------------
 
-Day 41 – Coming Soon 🚀
+Day 42 – Largest Number in Array
+Input Example:
+Array: 3 9 2 5 6
 
+Output:
+Largest: 9
+
+
+------------------------------
+
+Day 43 – Palindrome Check
+Input Example:
+String: level
+
+Output:
+Palindrome
+
+------------------------------
+
+Day 44 - Coming Soon 🚀
