@@ -5,6 +5,7 @@ int main(){
 
     // int arr[] = {2, 7, 11, 5, 4};
     // int n = sizeof(arr)/sizeof(arr[0]);
+    
     int n;
     cout << "Enter no. of elements: ";
     cin >> n;
