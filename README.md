@@ -46,7 +46,9 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 39** | `day39_shortest_subarray.c` | Finds Shortest Subarray with Sum = K | Arrays / Loops | **C**  | ✅ Completed |
 | **Day 40** | `day40_gcd.c` | Finds GCD of Two Integers | Math | **C**  | ✅ Completed |
 | **Day 41** | `day41_two_sum_target.cpp` | Return two numbers whose sum is target -> C++ | Array / Loops | **C++** | ✅ Completed |
-| **Day 42** | — | — | — | - | Coming Soon |
+| **Day 42** | `day42_largestNo.cpp` | Returns Largest number from the array -> C++ | Array / Loops | **C++** | ✅ Completed |
+| **Day 43** | `day43_palindrome.cpp` | Tells if the Array is palindrome or not -> C++ | Array / Loops | **C++** | ✅ Completed |
+| **Day 44** | — | — | — | - | Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
@@ -91,6 +93,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day39_shortest_subarray.c`<br>
       `├── day40_gcd.c`<br>
       `├── day41_two_sum_target.cpp`<br>
+      `├── day42_largestNo.cpp`<br>
+      `├── day43_palindrome.cpp`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
