@@ -14,6 +14,7 @@ void palindromeInt(int n1, int arr1[]){
 int main(){
     // int arr1[] = {1, 2, 2, 1};
     // int n1 = sizeof(arr1)/sizeof(arr1[0]);
+    
     int n;
     cout << "Enter no. of elements: ";
     cin >> n;
