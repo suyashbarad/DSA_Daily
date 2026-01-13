@@ -4,8 +4,7 @@ using namespace std;
 int main(){
     int choice;
     // int arr[] = {1, 2, 3, 4};
-    // string str = "ABCDE";
-    
+    // string str = "ABCDE";  ----->manual
     cout << "1.String, 2. Array: ";
     cin>>choice;
     switch(choice){
