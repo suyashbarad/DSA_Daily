@@ -97,6 +97,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day41_two_sum_target.cpp`<br>
       `├── day42_largestNo.cpp`<br>
       `├── day43_palindrome.cpp`<br>
+      `├── day44_reverseArr_str.cpp`<br>
+      `├── day45_elemFreq.cpp`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
