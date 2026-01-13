@@ -48,7 +48,9 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 41** | `day41_two_sum_target.cpp` | Return two numbers whose sum is target -> C++ | Array / Loops | **C++** | ✅ Completed |
 | **Day 42** | `day42_largestNo.cpp` | Returns Largest number from the array -> C++ | Array / Loops | **C++** | ✅ Completed |
 | **Day 43** | `day43_palindrome.cpp` | Tells if the Array is palindrome or not -> C++ | Array / Loops | **C++** | ✅ Completed |
-| **Day 44** | — | — | — | - | Coming Soon |
+| **Day 44** | `day44_reverseArr_str.cpp` | Reverses the string and Array -> C++ | Array / Strings | **C++** | ✅ Completed |
+| **Day 45** | `day45_elemFreq.cpp` | Counts the element frequency -> C++ | Array / Loops | **C++** | ✅ Completed |
+| **Day 46** | — | — | — | - | Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
