@@ -35,7 +35,7 @@ Palindrome
 
 Day 4 – Reverse array
 Input Example:
-String: 12345
+Array: 12345
 
 Output: 54321
 
@@ -459,4 +459,28 @@ Palindrome
 
 ------------------------------
 
-Day 44 - Coming Soon 🚀
+Day 44 – Reverse array
+Input Example:
+Array: 12345
+String: ABCDE
+
+Output: 
+54321
+EDCBA
+
+
+------------------------------
+
+Day 45 – Frequency of Elements
+Input Example:
+Array: 1 2 2 3 3 3
+
+Output:
+1 -> 1
+2 -> 2
+3 -> 3
+
+
+------------------------------
+
+Day 46 - Coming Soon 🚀
