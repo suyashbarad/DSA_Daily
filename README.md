@@ -50,6 +50,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 43** | `day43_palindrome.cpp` | Tells if the Array is palindrome or not -> C++ | Array / Loops | **C++** | ✅ Completed |
 | **Day 44** | `day44_reverseArr_str.cpp` | Reverses the string and Array -> C++ | Array / Strings | **C++** | ✅ Completed |
 | **Day 45** | `day45_elemFreq.cpp` | Counts the element frequency -> C++ | Array / Loops | **C++** | ✅ Completed |
+| **Day 45** | `day46_ZeroToEnd.cpp` | Moves all zeroes to end -> C++ | Array / Loops | **C++** | ✅ Completed |
+| **Day 45** | `day47_secondLargest.cpp` | Finds the second largest number -> C++ | Array / Loops | **C++** | ✅ Completed |
 | **Day 46** | — | — | — | - | Coming Soon |
 
 ## • Folder Structure
