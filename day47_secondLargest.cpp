@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     // int arr[] = {3, 4, 2, 1, 5, 6};
     // int n = sizeof(arr)/sizeof(arr[0]);
-    int n;
+    int n; 
     cout << "Enter number of elements: ";
     cin >> n;
     int arr[n];
