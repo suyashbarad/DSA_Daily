@@ -480,7 +480,25 @@ Output:
 2 -> 2
 3 -> 3
 
+------------------------------
+
+Day 46 – Move Zeroes to End
+Input Example:
+Array: 0 1 0 3 12
+
+Output:
+1 3 12 0 0
 
 ------------------------------
 
-Day 46 - Coming Soon 🚀
+Day 47 – Second Largest Number
+Input Example:
+Array: 10 5 20 8
+
+Output:
+Second Largest element: 10
+
+
+------------------------------
+
+Day 48 - Coming Soon 🚀
