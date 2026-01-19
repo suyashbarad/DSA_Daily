@@ -52,6 +52,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 45** | `day45_elemFreq.cpp` | Counts the element frequency -> C++ | Array / Loops | **C++** | ✅ Completed |
 | **Day 45** | `day46_ZeroToEnd.cpp` | Moves all zeroes to end -> C++ | Array / Loops | **C++** | ✅ Completed |
 | **Day 45** | `day47_secondLargest.cpp` | Finds the second largest number -> C++ | Array / Loops | **C++** | ✅ Completed |
+| **Day 45** | `day48_OOP_Area.cpp` | Finds area of Sq, rect, tri, circle -> C++ -> OOP | Class / Functions | **C++(OOP)** | ✅ Completed |
 | **Day 46** | — | — | — | - | Coming Soon |
 
 ## • Folder Structure
@@ -103,6 +104,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day45_elemFreq.cpp`<br>
       `├── day46_ZeroToEnd.cpp`<br>
       `├── day47_secondLargest.cpp`<br>
+      `├── day48_OOP_Area.cpp`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
