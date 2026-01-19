@@ -501,4 +501,23 @@ Second Largest element: 10
 
 ------------------------------
 
-Day 48 - Coming Soon 🚀
+Day 48 - OOP - Area of sq, rect, tri, circle
+Input Example:
+Side1: 2
+Side2: 3
+
+Output: Area of rectangle: 6
+
+------------------------------
+
+Day 49 - OOP - StudentInfo
+Input Example:
+(**student name, prn, marks)
+
+Output:
+Display!!
+
+------------------------------
+
+Day 50 - Coming Soon 🚀
+
