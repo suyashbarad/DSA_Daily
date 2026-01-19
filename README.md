@@ -50,10 +50,11 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 43** | `day43_palindrome.cpp` | Tells if the Array is palindrome or not -> C++ | Array / Loops | **C++** | ✅ Completed |
 | **Day 44** | `day44_reverseArr_str.cpp` | Reverses the string and Array -> C++ | Array / Strings | **C++** | ✅ Completed |
 | **Day 45** | `day45_elemFreq.cpp` | Counts the element frequency -> C++ | Array / Loops | **C++** | ✅ Completed |
-| **Day 45** | `day46_ZeroToEnd.cpp` | Moves all zeroes to end -> C++ | Array / Loops | **C++** | ✅ Completed |
-| **Day 45** | `day47_secondLargest.cpp` | Finds the second largest number -> C++ | Array / Loops | **C++** | ✅ Completed |
-| **Day 45** | `day48_OOP_Area.cpp` | Finds area of Sq, rect, tri, circle -> C++ -> OOP | Class / Functions | **C++(OOP)** | ✅ Completed |
-| **Day 46** | — | — | — | - | Coming Soon |
+| **Day 46** | `day46_ZeroToEnd.cpp` | Moves all zeroes to end -> C++ | Array / Loops | **C++** | ✅ Completed |
+| **Day 47** | `day47_secondLargest.cpp` | Finds the second largest number -> C++ | Array / Loops | **C++** | ✅ Completed |
+| **Day 48** | `day48_OOP_Area.cpp` | Finds area of Sq, rect, tri, circle -> C++ -> OOP | Class / Functions | **C++(OOP)** | ✅ Completed |
+| **Day 49** | `day49_OOP_StudentInfo.cpp` | Takesa and Display StudentInfo -> C++ -> OOP | Class / Functions | **C++(OOP)** | ✅ Completed |
+| **Day 50** | — | — | — | - | Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
@@ -105,6 +106,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day46_ZeroToEnd.cpp`<br>
       `├── day47_secondLargest.cpp`<br>
       `├── day48_OOP_Area.cpp`<br>
+      `├── day49_OOP_StudentInfo.cpp`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
