@@ -53,8 +53,9 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 46** | `day46_ZeroToEnd.cpp` | Moves all zeroes to end -> C++ | Array / Loops | **C++** | ✅ Completed |
 | **Day 47** | `day47_secondLargest.cpp` | Finds the second largest number -> C++ | Array / Loops | **C++** | ✅ Completed |
 | **Day 48** | `day48_OOP_Area.cpp` | Finds area of Sq, rect, tri, circle -> C++ -> OOP | Class / Functions | **C++(OOP)** | ✅ Completed |
-| **Day 49** | `day49_OOP_StudentInfo.cpp` | Takesa and Display StudentInfo -> C++ -> OOP | Class / Functions | **C++(OOP)** | ✅ Completed |
-| **Day 50** | — | — | — | - | Coming Soon |
+| **Day 49** | `day49_OOP_StudentInfo.cpp` | Takes and Display StudentInfo -> C++ -> OOP | Class / Functions | **C++(OOP)** | ✅ Completed |
+| **Day 50** | `day50_pascalsTriangle.cpp ` | Prints pascals triangle -> C++ | loops / core | **C++** | ✅ Completed |
+| **Day 51** | — | — | — | - | Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
