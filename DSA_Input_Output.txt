@@ -543,5 +543,36 @@ Output:
 
 ------------------------------
 
-Day 51 - Coming Soon 🚀
+Day 51 - Bank System - OOP
+Input Output Example:
+
+Enter your account number: 1262241877
+Hello user no. 1262241877
+Enter your bank balance: 10000
+Your balance is  10000 rs
+
+What do you want to do 1.Deposit, 2.Withdraw: 3.end: 1
+Enter your pin: 123
+Incorrect pin! Access denied :(
+What do you want to do 1.Deposit, 2.Withdraw: 3.end: 1
+Enter your pin: 1234
+Correct pin! Access granted :)
+Enter amount to deposit: 350
+350 deposited!
+Total balance: 10350
+
+What do you want to do 1.Deposit, 2.Withdraw: 3.end: 2
+Enter your pin: 1234
+Correct pin! Access granted :)
+Enter amount to withdraw: 5000
+5000 withdrawl!
+Total balance: 5350
+
+What do you want to do 1.Deposit, 2.Withdraw: 3.end: 3
+Final balance: 5350rs
+Thankyou for using bank system!
+
+------------------------------
+
+Day 52 - Coming Soon 🚀
 
