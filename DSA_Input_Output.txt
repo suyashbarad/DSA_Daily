@@ -440,7 +440,7 @@ index[1, 2] = 2 + 7 = 9
 
 ------------------------------
 
-Day 42 – Largest Number in Array
+Day 42 – Largest Number in Array -> C++
 Input Example:
 Array: 3 9 2 5 6
 
@@ -450,7 +450,7 @@ Largest: 9
 
 ------------------------------
 
-Day 43 – Palindrome Check
+Day 43 – Palindrome Check -> C++
 Input Example:
 String: level
 
@@ -459,7 +459,7 @@ Palindrome
 
 ------------------------------
 
-Day 44 – Reverse array
+Day 44 – Reverse array -> C++
 Input Example:
 Array: 12345
 String: ABCDE
@@ -471,7 +471,7 @@ EDCBA
 
 ------------------------------
 
-Day 45 – Frequency of Elements
+Day 45 – Frequency of Elements -> C++
 Input Example:
 Array: 1 2 2 3 3 3
 
@@ -482,7 +482,7 @@ Output:
 
 ------------------------------
 
-Day 46 – Move Zeroes to End
+Day 46 – Move Zeroes to End -> C++
 Input Example:
 Array: 0 1 0 3 12
 
@@ -491,7 +491,7 @@ Output:
 
 ------------------------------
 
-Day 47 – Second Largest Number
+Day 47 – Second Largest Number -> C++
 Input Example:
 Array: 10 5 20 8
 
@@ -501,7 +501,7 @@ Second Largest element: 10
 
 ------------------------------
 
-Day 48 - OOP - Area of sq, rect, tri, circle
+Day 48 - OOP - Area of sq, rect, tri, circle -> C++
 Input Example:
 Side1: 2
 Side2: 3
@@ -510,7 +510,7 @@ Output: Area of rectangle: 6
 
 ------------------------------
 
-Day 49 - OOP - StudentInfo
+Day 49 - OOP - StudentInfo -> C++
 Input Example:
 (**student name, prn, marks)
 
@@ -519,7 +519,7 @@ Display!!
 
 ------------------------------
 
-Day 50 - Pascals triangle
+Day 50 - Pascals triangle -> C++
 Input Example:
 No. of rows: 5
 
@@ -534,7 +534,7 @@ Output:
 # 50 days complete 😊
 ------------------------------
 
-Day 51 - Merge Sort
+Day 51 - Merge Sort -> C++
 Input Example:
 5 4 6 3 7 2 8 1 9 10
 
@@ -543,7 +543,7 @@ Output:
 
 ------------------------------
 
-Day 51 - Bank System - OOP
+Day 52 - Bank System - OOP -> C++
 Input Output Example:
 
 Enter your account number: 1262241877
@@ -574,5 +574,15 @@ Thankyou for using bank system!
 
 ------------------------------
 
-Day 52 - Coming Soon 🚀
+Day 53 - Quick Sort -> C++
+Input Example:
+Enter number of elements: 10
+Enter elements: 5 4 7 6 3 2 8 9 1 10
+
+Output: 
+Sorted array using QuickSort : 1 2 3 4 5 6 7 8 9 10
+
+------------------------------
+
+Day 54 - Coming Soon 🚀
 
