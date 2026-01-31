@@ -584,5 +584,15 @@ Sorted array using QuickSort : 1 2 3 4 5 6 7 8 9 10
 
 ------------------------------
 
-Day 54 - Coming Soon 🚀
+Day 54 - Quick Sort -> C++ --> OOP
+Input Example:
+Enter number of elements: 10
+Enter elements: 5 4 7 6 3 2 8 9 1 10
+
+Output: 
+Sorted array using QuickSort : 1 2 3 4 5 6 7 8 9 10
+
+------------------------------
+
+Day 55 - Coming Soon 🚀
 
