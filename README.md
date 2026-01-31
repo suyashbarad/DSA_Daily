@@ -58,7 +58,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 51** | `day51_MergeSort.cpp` | Sorting using Merge Sort -> C++ | functions / core | **C++** | ✅ Completed |
 | **Day 52** | `day52_BankSystem_OOP.cpp` | Manages Bank system -> C++ -> OOP | functions / class | **C++(OOP)** | ✅ Completed |
 | **Day 53** | `day53_quickSort.cpp` | Sorting using Quick Sort -> C++ | functions / Sorting | **C++** | ✅ Completed |
-| **Day 54** | — | — | — | - | Coming Soon |
+| **Day 54** | `day54_OOP_quickSort.cpp` | Sorting using Quick Sort -> C++ --> OOP | functions / Class | **C++(OOP)** | ✅ Completed |
+| **Day 55** | — | — | — | - | Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
