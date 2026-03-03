@@ -59,6 +59,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 52** | `day52_BankSystem_OOP.cpp` | Manages Bank system -> C++ -> OOP | functions / class | **C++(OOP)** | ✅ Completed |
 | **Day 53** | `day53_quickSort.cpp` | Sorting using Quick Sort -> C++ | functions / Sorting | **C++** | ✅ Completed |
 | **Day 54** | `day54_OOP_quickSort.cpp` | Sorting using Quick Sort -> C++ --> OOP | functions / Class | **C++(OOP)** | ✅ Completed |
+| **Day 54** | `day55_LinearSearch.cpp` | Searching using linear Search -> C++ --> OOP | functions / Class | **C++(OOP)** | ✅ Completed |
 | **Day 55** | — | — | — | - | Coming Soon |
 
 ## • Folder Structure
@@ -117,6 +118,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day52_BankSystem_OOP.cpp`<br>
       `├── day53_quickSort.cpp`<br>
       `├── day54_OOP_quickSort.cpp`<br>
+      `├── day55_LinearSearch.cpp`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
