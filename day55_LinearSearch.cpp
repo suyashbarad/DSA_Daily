@@ -6,13 +6,21 @@ class LinearSearch{
         int *arr;
         int n;
         int key;
+        int flag;
     public:
         void search(int n, int arr[], int key){
+            flag = 0;
             for(int i = 0; i < n; i++){
                 if(arr[i] == key){
-                cout<<"Found "<<key<<" at index "<<i+1<<endl;
+                    cout<<"Found "<<key<<" at index "<<i+1<<endl;
+                    flag = 1;
+                    return;
+                }
+                else{
+                    flag = 0;
                 }
             }
+            if(flag == 0) cout<<"Not Found! ";
         }    
 };
 int main(){
