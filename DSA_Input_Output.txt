@@ -594,5 +594,16 @@ Sorted array using QuickSort : 1 2 3 4 5 6 7 8 9 10
 
 ------------------------------
 
+Day 55 - Linear Search -> C++
+input Example:
+Enter size of array: 6
+Enter array: 3 4 5 1 6 2
+Enter key element: 5
+
+Output:
+Found 5 at index 3
+
+------------------------------
+
 Day 55 - Coming Soon 🚀
 
