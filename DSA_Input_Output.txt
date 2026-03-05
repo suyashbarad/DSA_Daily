@@ -605,7 +605,7 @@ Found 5 at index 3
 
 ------------------------------
 
-Day 56 - Binary Search -> C++
+Day 56 - Binary Search (Recursive) -> C++
 Input Example:
 Enter size of array: 6
 Enter array: 3 4 2 5 1 6
@@ -617,5 +617,17 @@ Key found at index 4 (Recursive)
 
 ------------------------------
 
-Day 57 - Coming Soon 🚀
+Day 57 - Binary Search (Non-Recursive) -> C++
+Input Example:
+Enter size of array: 6
+Enter array: 3 4 2 5 1 6
+Enter key element: 3
+
+Output:
+Sorted array: 1 2 3 4 5 6
+Key found at index 3 (Non-Recursive)
+
+------------------------------
+
+Day 58 - Coming Soon 🚀
 
