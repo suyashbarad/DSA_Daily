@@ -629,5 +629,22 @@ Key found at index 3 (Non-Recursive)
 
 ------------------------------
 
-Day 58 - Coming Soon 🚀
+Day 58 - Adjecency matrix
+Input Example:
+Enter number of vertices: 4
+Enter number of edges: 3
+
+Enter edge (u v): 0 1
+Enter edge (u v): 0 2
+Enter edge (u v): 1 3
+
+Output:
+   0 1 1 0 
+   1 0 0 1 
+   1 0 0 0 
+   0 1 0 0 
+
+------------------------------
+
+Day 59 - Coming Soon 🚀
 
