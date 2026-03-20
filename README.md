@@ -63,7 +63,8 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 56** | `day56_BinarySearch.cpp` | Searching using Binary Search (Recursive) -> C++ | functions / loops | **C++** | ✅ Completed |
 | **Day 57** | `day57_BinarySearch_NonRec.cpp` | Searching using Binary Search (Non-Recursive) -> C++ | functions / loops | **C++** | ✅ Completed |
 | **Day 58** | `day58_AdjecencyMatrix.cpp` | Finds the Adjecency matrix of a graph -> C++ | Matrix / loops | **C++** | ✅ Completed |
-| **Day 59** | — | — | — | - | Coming Soon |
+| **Day 59** | `day59_knapsack_fractional.cpp` | Finds max profit using Knapsack Algorithm -> C++ | DS / Functions | **C++** | ✅ Completed |
+| **Day 60** | — | — | — | - | Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
@@ -125,6 +126,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day56_BinarySearch.cpp`<br>
       `├── day57_BinarySearch_NonRec.cpp`<br>
       `├── day58_AdjecencyMatrix.cpp`<br>
+      `├── day59_knapsack_fractional.cpp`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
