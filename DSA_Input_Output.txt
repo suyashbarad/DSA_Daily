@@ -662,5 +662,25 @@ Max Profit = 240
 
 ------------------------------
 
-Day 60 - Coming Soon 🚀
+Day 60 - Knapsack (Sorting Included)
+Input Example: 
+Enter number of elements: 4
+Enter weight and value array: (weight value): 
+5 10
+4 40
+6 30
+3 50
+Enter Knapsack capacity: 10
+Output: 
+Sorted: 
+3 - 50 - 16.6667
+4 - 40 - 10
+6 - 30 - 5
+5 - 10 - 2
+
+Max Profit: 105
+
+------------------------------
+
+Day 61 - Coming Soon 🚀
 
