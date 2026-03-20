@@ -646,5 +646,21 @@ Output:
 
 ------------------------------
 
-Day 59 - Coming Soon 🚀
+Day 59 - Fractional Knapsack problem
+Input Example:
+n = 3   //number of objects
+
+Enter weight and value array: (weight value): 
+10 60
+20 100
+30 120
+
+Capacity = 50
+
+Output:
+Max Profit = 240
+
+------------------------------
+
+Day 60 - Coming Soon 🚀
 
