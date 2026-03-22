@@ -682,5 +682,37 @@ Max Profit: 105
 
 ------------------------------
 
-Day 61 - Coming Soon 🚀
+Day 61 - Prims algorithm
+Input Example: 
+
+Enter number of vertices: 5
+Enter cost of edge: 
+ 0 if no direction
+Is edge 0 connected with 1? (T/F): t
+Enter weight of 0 - 1: 2
+Is edge 0 connected with 2? (T/F): f
+Is edge 0 connected with 3? (T/F): t
+Enter weight of 0 - 3: 6
+Is edge 0 connected with 4? (T/F): f
+Is edge 1 connected with 2? (T/F): t
+Enter weight of 1 - 2: 3
+Is edge 1 connected with 3? (T/F): f
+Is edge 1 connected with 4? (T/F): t
+Enter weight of 1 - 4: 5
+Is edge 2 connected with 3? (T/F): f
+Is edge 2 connected with 4? (T/F): f
+Is edge 3 connected with 4? (T/F): f
+
+Output: 
+Edges selected for mincost tree: 
+From '0' to '1' cost = 2
+From '1' to '2' cost = 3
+From '1' to '4' cost = 5
+From '0' to '3' cost = 6
+
+Minimum cost: 16
+
+------------------------------
+
+Day 62 - Coming Soon 🚀
 
