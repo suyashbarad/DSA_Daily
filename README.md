@@ -61,11 +61,12 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
 | **Day 54** | `day54_OOP_quickSort.cpp` | Sorting using Quick Sort -> C++ --> OOP | functions / Class | **C++(OOP)** | ✅ Completed |
 | **Day 55** | `day55_LinearSearch.cpp` | Searching using linear Search -> C++ --> OOP | functions / Class | **C++(OOP)** | ✅ Completed |
 | **Day 56** | `day56_BinarySearch.cpp` | Searching using Binary Search (Recursive) -> C++ | functions / loops | **C++** | ✅ Completed |
-| **Day 57** | `day57_BinarySearch_NonRec.cpp` | Searching using Binary Search (Non-Recursive) -> C++ | functions / loops | **C++** | ✅ Completed |
+| **Day 57** | `day57_BinarySearch_NonRec.cpp` | Searching using Binary Search (Non-Rec) -> C++ | functions / loops | **C++** | ✅ Completed |
 | **Day 58** | `day58_AdjecencyMatrix.cpp` | Finds the Adjecency matrix of a graph -> C++ | Matrix / loops | **C++** | ✅ Completed |
 | **Day 59** | `day59_knapsack_fractional.cpp` | Finds max profit using Knapsack Algorithm -> C++ | DS / Functions | **C++** | ✅ Completed |
 | **Day 60** | `day60_knapsack.cpp` | Knapsack Algorithm (Sorting Included)-> C++ | DS / Functions | **C++** | ✅ Completed |
-| **Day 61** | — | — | — | - | Coming Soon |
+| **Day 61** | `day61_primsAlgo.cpp` | Prims Algorithm (Sortest path)-> C++ | DS / Functions | **C++** | ✅ Completed |
+| **Day 62** | — | — | — | - | Coming Soon |
 
 ## • Folder Structure
 **DSA_daily**/<br>
@@ -129,6 +130,7 @@ This repo helps me build strong logic, consistency, and a solid foundation for D
       `├── day58_AdjecencyMatrix.cpp`<br>
       `├── day59_knapsack_fractional.cpp`<br>
       `├── day60_knapsack.cpp`<br>
+      `├── day61_primsAlgo.cpp`<br>
       `└── DSA_Input_Output.txt`<br>
       `└── README.md`<br>
 
