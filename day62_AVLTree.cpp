@@ -62,7 +62,7 @@ class avl{
             }
             else{
                 cout<<"keyword already exists. Updating Meaning...";
-                n->meaning = meaning;
+                meaning = n->meaning;
                 return n;      
             }
             n->height = max(height(n->left), height(n->right))+1;
